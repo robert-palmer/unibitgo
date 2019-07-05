@@ -1,7 +1,7 @@
 package main
 
 import (
-	uni "./pkg/unibit"
+	uni "github.com/robert-palmer/unibitgo/pkg/unibit"
 )
 
 func main() {
